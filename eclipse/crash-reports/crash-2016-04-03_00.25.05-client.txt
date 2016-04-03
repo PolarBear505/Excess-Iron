@@ -4,7 +4,7 @@
 Time: 3/04/16 12:25 AM
 Description: Initializing game
 
-java.lang.IllegalArgumentException: Can not set static com.PolarBear505.MyMod.Main field com.PolarBear505.MyMod.Main.instance to com.example.examplemod.ExampleMod
+java.lang.IllegalArgumentException: Can not set static com.PolarBear505.excessiron.Main field com.PolarBear505.excessiron.Main.instance to com.example.examplemod.ExampleMod
 	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
 	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
 	at sun.reflect.UnsafeStaticObjectFieldAccessorImpl.set(UnsafeStaticObjectFieldAccessorImpl.java:79)
