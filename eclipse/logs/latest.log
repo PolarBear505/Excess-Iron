@@ -1,0 +1,29 @@
+[12:47:18] [main/INFO]: Setting user: Player174
+[12:47:20] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:47:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:My Mod
+[12:47:26] [Sound Library Loader/INFO]: Sound engine started
+[12:47:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:47:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:47:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:My Mod
+[12:47:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:47:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:47:30] [Sound Library Loader/INFO]: Sound engine started
+[12:47:40] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:47:40] [Server thread/INFO]: Generating keypair
+[12:47:40] [Server thread/INFO]: Preparing start region for level 0
+[12:47:41] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:47:41] [Server thread/INFO]: Player174[local:E:90fe7d4d] logged in with entity id 303 at (641.5472845161399, 4.0, 739.9747844540148)
+[12:47:41] [Server thread/INFO]: Player174 joined the game
+[12:47:47] [Server thread/INFO]: Player174 has just earned the achievement [Taking Inventory]
+[12:47:47] [Client thread/INFO]: [CHAT] Player174 has just earned the achievement [Taking Inventory]
+[12:48:13] [Server thread/INFO]: Saving and pausing game...
+[12:48:13] [Server thread/INFO]: Saving chunks for level 'Creative Mod Test'/Overworld
+[12:48:13] [Server thread/INFO]: Saving chunks for level 'Creative Mod Test'/Nether
+[12:48:13] [Server thread/INFO]: Saving chunks for level 'Creative Mod Test'/The End
+[12:48:14] [Client thread/INFO]: Stopping!
+[12:48:14] [Server thread/INFO]: Stopping server
+[12:48:14] [Server thread/INFO]: Saving players
+[12:48:14] [Server thread/INFO]: Saving worlds
+[12:48:14] [Server thread/INFO]: Saving chunks for level 'Creative Mod Test'/Overworld
+[12:48:14] [Server thread/INFO]: Saving chunks for level 'Creative Mod Test'/Nether
+[12:48:14] [Server thread/INFO]: Saving chunks for level 'Creative Mod Test'/The End
